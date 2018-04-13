@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PBB-8</string>
+    <string-array name="durasi">
+        <item>Pilih durasi</item>
+        <item>1 Jam</item>
+        <item>2 Jam</item>
+        <item>3 Jam</item>
+    </string-array>
+</resources>
